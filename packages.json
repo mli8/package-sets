@@ -374,6 +374,15 @@
     "repo": "https://github.com/slamdata/purescript-dom-indexed.git",
     "version": "v6.0.0"
   },
+  "domparser": {
+    "dependencies": [
+      "effect",
+      "prelude",
+      "web-dom"
+    ],
+    "repo": "https://github.com/toastal/purescript-domparser.git",
+    "version": "v2.0.1"
+  }, 
   "effect": {
     "dependencies": [
       "prelude"
